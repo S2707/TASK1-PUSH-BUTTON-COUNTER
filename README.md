@@ -16,4 +16,4 @@
 # Circuit Digram Of the Task
 ![Copy of Super Snaget](https://github.com/user-attachments/assets/db91ddc5-2956-46dc-811a-df7a377e736a)
 # output of the code on serial monitor
-![Serial_Monitor Output](https://github.com/user-attachments/assets/1bfade83-da94-41a1-8e73-c3d38001b440)
+
